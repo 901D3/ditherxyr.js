@@ -19,7 +19,7 @@ var DITHERXYR = {
   // structs
   Struct_Palette() {
     return {
-      v: null, // aplette values
+      v: null, // palette values
       count: null,
       max: null, // max palette value
       // generated when processing palette
